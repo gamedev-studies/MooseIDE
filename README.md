@@ -21,7 +21,7 @@ New Tools for Moose
 ```smalltalk
 Metacello new
   baseline: 'MooseIDE';
-  repository: 'github://moosetechnology/MooseIDE:development/src';
+  repository: 'github://gamedev-studies/MooseIDE:development/src';
   load
 ```
 
@@ -30,6 +30,6 @@ Metacello new
 ```smalltalk
 Metacello new
   baseline: 'MooseIDE';
-  repository: 'github://moosetechnology/MooseIDE:v2.x.x/src';
+  repository: 'github://gamedev-studies/MooseIDE:v2.x.x/src';
   load
 ```
